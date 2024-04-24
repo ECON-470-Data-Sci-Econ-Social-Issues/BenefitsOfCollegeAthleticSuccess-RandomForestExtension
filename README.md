@@ -25,9 +25,20 @@ This script replicates a paper's methodology, extending it with additional regre
 - Implements robust error handling and data filtering to manage missing data and ensure data integrity.
 - Outputs analysis results including summary statistics and graphs.
 
-### `Poster`
-*Coming soon* - This file will contain the poster that summarizes the project and its findings.
+## Poster
 
+The poster titled "The Benefits of College Athletic Success: An Application of the Propensity Score Design" is detailed in the file `ML_PSM.pdf`. It encapsulates the essence of our project, which is to apply machine learning techniques to enhance the understanding and outcomes of college athletic success on institutional health metrics such as alumni donations. The poster includes:
+
+- An abstract that outlines the objectives and the scope of our analysis.
+- A detailed introduction that sets the stage for the methodology applied and the reasons behind it.
+- A literature review that supports the use of Random Forest regression and Logistic Regression in our study.
+- A comprehensive methodology section that describes how we implemented machine learning techniques to refine the analysis.
+- Findings that summarize the impact of athletic success on alumni donation behaviors, comparing results obtained through traditional Propensity Score Matching (PSM) and advanced machine learning (ML) techniques.
+- A discussion that interprets the results in the context of existing literature and their implications for the broader field of educational economics and fundraising.
+
+This poster serves as a visual and textual representation of our work, providing insights into the intricate relationship between collegiate sports success and its broader institutional impacts. It's ideal for stakeholders interested in the analytical techniques and outcomes of this study.
+
+You can view and download the poster directly from the repository: [ML_PSM.pdf](./ML_PSM.pdf).
 ### `Report`
 *Coming soon* - This document will provide a comprehensive report on the methodology, analysis, and results of the project.
 
