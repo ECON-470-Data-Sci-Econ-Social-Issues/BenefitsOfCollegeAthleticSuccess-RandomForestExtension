@@ -50,7 +50,7 @@ We thank all contributors who have worked on this project. Feel free to connect 
 - [Natalie Mikosz](https://www.linkedin.com/in/natalie-mikosz-880b79250/)
 - [Ethan Tabtiang](https://www.linkedin.com/in/ethan-tabtiang-b8a017127/)
 - [Anshu Puppala](https://www.linkedin.com/in/anshuman-puppala-73274226a/)
-- Juan Rodriguez - Email: [juantico@tamu.edu](mailto:juantico@tamu.edu)
+- [Juan Rodriguez](https://www.linkedin.com/in/juan-rodriguez-3a1228294/)
 
 
 
