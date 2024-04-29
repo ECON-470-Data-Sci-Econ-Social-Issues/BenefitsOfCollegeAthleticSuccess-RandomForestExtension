@@ -43,7 +43,7 @@ You can view and download the poster directly from the repository: [ML_PSM.pdf](
 *Coming soon* - This document will provide a comprehensive report on the methodology, analysis, and results of the project.
 
 ## How to Use
-To use the code, you can either download the Python files and CSV to run the scripts locally, or you can click on the links below to access the scripts in Google Colab, where they can be run directly in your browser without any setup:
+To use the code, you can either download the Python files and CSV to run the scripts locally, or you can click on the links below to access the scripts in Google Colab, where they can be run directly in your browser without any setup (if running ML Extension you have to run the sections in order or th efile won't run (if you run a section twice you have to start over to ensure proper column allignment):
 
 - [PSM ML Extension in Colab](https://colab.research.google.com/drive/1D9Wbt3Y0g8Q_cBkghSxpT-2ObatIjY4r#scrollTo=LMo4D9LT-bwZ)
 - [PSM Replication in Colab](https://colab.research.google.com/drive/1u4YxK_ndsvyyUrCngM23oq6DXMdRFQhu#scrollTo=P4ikY0mY8PEY)
@@ -62,8 +62,8 @@ We thank all contributors who have worked on this project. Feel free to connect 
 
 - [Ty McClure](https://www.linkedin.com/in/ty-mcclure-b65391236)
 - [Natalie Mikosz](https://www.linkedin.com/in/natalie-mikosz-880b79250/)
-- [Ethan Tabtiang](https://www.linkedin.com/in/ethan-tabtiang-b8a017127/)
 - [Anshu Puppala](https://www.linkedin.com/in/anshuman-puppala-73274226a/)
+- [Ethan Tabtiang](https://www.linkedin.com/in/ethan-tabtiang-b8a017127/)
 - [Juan Rodriguez](https://www.linkedin.com/in/juan-rodriguez-3a1228294/)
 
 
