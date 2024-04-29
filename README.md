@@ -45,8 +45,8 @@ You can view and download the poster directly from the repository: [ML_PSM.pdf](
 ## How to Use
 To use the code, you can either download the Python files and CSV to run the scripts locally, or you can click on the links below to access the scripts in Google Colab, where they can be run directly in your browser without any setup:
 
-- [PSM ML Extension in Colab](https://colab.research.google.com/drive/1u4YxK_ndsvyyUrCngM23oq6DXMdRFQhu#scrollTo=KGAwEciMHTfw)
-- [PSM Replication in Colab](https://colab.research.google.com/drive/1D9Wbt3Y0g8Q_cBkghSxpT-2ObatIjY4r#scrollTo=pLajfPK3GCfK)
+- [PSM ML Extension in Colab](https://colab.research.google.com/drive/1D9Wbt3Y0g8Q_cBkghSxpT-2ObatIjY4r#scrollTo=LMo4D9LT-bwZ)
+- [PSM Replication in Colab](https://colab.research.google.com/drive/1u4YxK_ndsvyyUrCngM23oq6DXMdRFQhu#scrollTo=P4ikY0mY8PEY)
 
 ## Original Study and Data Source
 
