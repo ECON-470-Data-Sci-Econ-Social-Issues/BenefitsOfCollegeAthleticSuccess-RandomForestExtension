@@ -39,6 +39,7 @@ The poster titled "The Benefits of College Athletic Success: An Application of t
 This poster serves as a visual and textual representation of our work, providing insights into the intricate relationship between collegiate sports success and its broader institutional impacts. It's ideal for stakeholders interested in the analytical techniques and outcomes of this study.
 
 You can view and download the poster directly from the repository: [ML_PSM.pdf](./ML_PSM.pdf).
+You can view and download the Overleaf from this link: [Overlead Link](https://www.overleaf.com/project/6627ce5f5923f9a7550467d9).
 
 ## Supplemental Document
 The supplemental document includes a comprehensive literature review supporting the analytical techniques used in our study and presents various graphs illustrating key aspects of our findings. This document provides deeper insights into the theoretical framework and empirical analysis underpinning our research. Access the supplemental document here:
